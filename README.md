@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VolodyaLetov
-- 👀 I’m interested in front-end developming
+- 👀 I’m interested in back-end development
 - 🌱 I’m currently learning fundamental knowledges about html & css
-- 💞️ For the beginning I'd like to work with myself
 - 📫 How to reach me: gmail: tregvovka@gmail.com, telegram: @volodyaletov
 
 <!---
